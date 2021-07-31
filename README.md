@@ -1,4 +1,4 @@
-# LiveChatGame
+# LiveCommentGame
 見て欲しいソースファイルのピックアップして投稿しました。
 
 Battle.cs
